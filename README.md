@@ -1,4 +1,4 @@
-# cub3D
+## cub3D
 My first RayCaster with miniLibX
 
 - miniLibX를 사용하라. 
